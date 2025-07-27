@@ -1,7 +1,7 @@
 
 import { motion } from "framer-motion";
 import Lottie from "lottie-react";
-import heroAnimation from "../assets/lottie/coding.json"; // Adjust the path if needed
+import heroAnimation from "../assets/lottie/Coding.json"; // Adjust the path if needed
 
 export default function Hero() {
   return (
